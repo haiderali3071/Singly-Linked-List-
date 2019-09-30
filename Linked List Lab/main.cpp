@@ -320,20 +320,6 @@ public:
 };
 
 
-int main() {
-    
-    LinkedList a;
-   
-    a.insertSorted(67);
-    a.insertSorted(5);
-    a.insertSorted(2);
-    a.insertSorted(10);
-    a.swapTwoValues(5, 2);
-    
-    a.printList();
-   
-    return 0;
-}
    
 
 
